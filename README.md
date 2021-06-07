@@ -16,3 +16,5 @@ Sight is a skill we use to experience the world since we are born and, certainly
  Yes, math is also for you 😉
  
  Meet Squance, the Swift playground that will teach you some math concepts with the goal of use visual thinking as a didactic resource for education.
+
+[Watch here the video on Youtube](https://www.youtube.com/watch?v=ZmHWwmZglg0)
